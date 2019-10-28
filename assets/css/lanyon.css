@@ -538,6 +538,18 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* Navy */
+.theme-base .sidebar,
+.theme-base .sidebar-toggle:active,
+.theme-base #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #384D98;
+}
+.theme-base .container a,
+.theme-base .sidebar-toggle,
+.theme-base .related-posts li a:hover {
+  color: #384D98;
+}
+
 
 /*
  * Overlay sidebar
